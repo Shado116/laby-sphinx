@@ -1,0 +1,29 @@
+Jack the Ripper: The Anatomy of a Legend
+========================================
+
+Introduction
+-------------
+
+Few figures in criminal history have captured the public imagination
+quite like **Jack the Ripper**, the unidentified serial killer who
+terrorized London’s East End in 1888. The Ripper murders, though
+confined to a brief period of time and a small geographic area, have
+spawned more speculation, investigation, and cultural mythology than
+perhaps any other crime in modern history. The case represents not only
+a horrifying series of murders but also a fascinating intersection of
+**Victorian society, media sensationalism, and the psychology of fear**.
+
+
+.. image:: jack.jpg
+   :width: 4.69896in
+   :height: 3.12939in
+
+This article explores the enduring fascination with Jack the Ripper
+through three lenses:
+
+-  the **historical context** of the crimes,
+
+-  the **evolution of the investigation**, and
+
+-  the **broader cultural significance** that transformed an anonymous
+   murderer into a symbol of modern urban terror.

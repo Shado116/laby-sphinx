@@ -1,0 +1,41 @@
+The Murders and the Investigation
+---------------------------------
+
+Between August and November 1888, **five canonical victims** were
+murdered in Whitechapel. Each case shared elements of method and
+mutilation that suggested a single perpetrator.
+
++---------------+--------------+--------------+--------------------------+
+| **Victim**    | **Date of    | **Location** | **Distinguishing         |
+|               | Murder**     |              | Features**               |
++===============+==============+==============+==========================+
+| Mary Ann      | 31 August    | Buck’s       | Throat cut, abdominal    |
+| Nichols       | 1888         | Row          | mutilation               |
++---------------+--------------+--------------+--------------------------+
+| Annie Chapman | 8 September  | Hanbury      | Organs removed with      |
+|               | 1888         | Street       | precision                |
++---------------+--------------+--------------+--------------------------+
+| Elizabeth     | 30 September | Berner       | Throat cut, possibly     |
+| Stride        | 1888         | Street       | interrupted              |
++---------------+--------------+--------------+--------------------------+
+| Catherine     | 30 September | Mitre        | Facial disfigurement,    |
+| Eddowes       | 1888         | Square       | kidney taken             |
++---------------+--------------+--------------+--------------------------+
+| Mary Jane     | 9 November   | Miller’s     | Extensive mutilation,    |
+| Kelly         | 1888         | Court        | indoors                  |
++---------------+--------------+--------------+--------------------------+
+
+Despite the narrow time frame, the police failed to identify the killer.
+Theories proliferated, suggesting he might be:
+
+-  a **surgeon or butcher** with anatomical knowledge,
+
+-  a **religious fanatic** seeking to “cleanse” Whitechapel,
+
+-  or even a **member of the aristocracy**, as popular rumor had it.
+
+The investigation was hampered by poor coordination between the
+**Metropolitan Police** and the **City of London Police**, and by a
+press hungry for headlines rather than truth. Letters allegedly written
+by “Jack the Ripper” to the police and media—such as the infamous *“Dear
+Boss”* letter—only deepened the mythos.
